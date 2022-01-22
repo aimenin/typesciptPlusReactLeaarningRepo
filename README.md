@@ -4,6 +4,10 @@
 
 Ссылка на пул-реквест: https://github.com/aimenin/typesciptPlusReactLeaarningRepo/pull/1
 
+## Типизация событий, классовых компонентов и refs
+
+Ссылка на пул-реквест: https://github.com/aimenin/typesciptPlusReactLeaarningRepo/pull/2
+
 ## Сборка проекта
 
 Необходимо, чтобы на компьютере были установлены npm и node.js
