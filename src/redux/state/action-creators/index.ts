@@ -1,4 +1,4 @@
-import axios, { AxiosError } from "axios";
+import axios from "axios";
 import { ActionType } from "../action-types";
 import { Dispatch } from "redux";
 import { Action } from "../actions";
